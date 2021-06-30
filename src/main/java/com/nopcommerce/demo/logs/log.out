@@ -1,0 +1,140 @@
+2021-06-26 22:06:158 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-26 22:06:749 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-26 22:06:412 INFO  HomePage :39 - Clicking on Top Menu....[[ChromeDriver: chrome on WINDOWS (a3274f27e252af23d9ff1266bf77ccab)] -> xpath: //ul[@class='top-menu notmobile']/child::li]
+2021-06-26 23:06:833 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-27 21:06:150 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-27 21:06:292 INFO  HomePage :42 - Clicking on Top Menu....[[ChromeDriver: chrome on WINDOWS (271bf898837e914cb27cc9616a2b12a2)] -> xpath: //ul[@class='top-menu notmobile']/child::li]
+2021-06-27 22:06:297 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-27 22:06:885 INFO  HomePage :42 - Clicking on Top Menu....[[ChromeDriver: chrome on WINDOWS (da182c89fecf20881cdee96e4d8758ca)] -> xpath: //ul[@class='top-menu notmobile']/child::li]
+2021-06-27 22:06:636 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-27 22:06:941 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (3bef3d80a5fa9691e616c102ea3d8036)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-27 22:06:67 INFO  ComputerPage :20 - Clicking on Desktop....[[ChromeDriver: chrome on WINDOWS (3bef3d80a5fa9691e616c102ea3d8036)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]]
+2021-06-27 22:06:172 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-27 22:06:275 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (d0ab6ee909a77cae31df2de0137c74d5)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-27 22:06:378 INFO  ComputerPage :20 - Clicking on Desktop....[[ChromeDriver: chrome on WINDOWS (d0ab6ee909a77cae31df2de0137c74d5)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]]
+2021-06-27 22:06:677 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-27 22:06:687 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (9388ac4538e674478be41edbb23764ea)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-27 22:06:820 INFO  ComputerPage :20 - Clicking on Desktop....[[ChromeDriver: chrome on WINDOWS (9388ac4538e674478be41edbb23764ea)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]]
+2021-06-27 22:06:464 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-27 22:06:728 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (5e447c24eda1727c64ce38d7a6a04572)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-27 22:06:180 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-27 22:06:555 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (5e447c24eda1727c64ce38d7a6a04572)] -> id: products-orderby]
+2021-06-27 22:06:637 INFO  DesktopPage :53 - checking products are sorted....[]
+2021-06-27 22:06:978 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-27 22:06:977 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (79df42e1108be7528e7a0583d5c41ed4)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-27 22:06:280 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-27 22:06:571 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (79df42e1108be7528e7a0583d5c41ed4)] -> id: products-orderby]
+2021-06-27 22:06:652 INFO  DesktopPage :53 - checking products are sorted....[]
+2021-06-28 01:06:545 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 01:06:874 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (83f714c8b381d6c0dd3d4cd2e9d0332c)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-28 01:06:268 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-28 01:06:547 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (83f714c8b381d6c0dd3d4cd2e9d0332c)] -> id: products-orderby]
+2021-06-28 01:06:631 INFO  DesktopPage :53 - checking products are sorted....[]
+2021-06-28 01:06:353 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 01:06:853 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (5cfeb298acb89935a1a9edab4c33e04a)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-28 01:06:367 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-28 01:06:690 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (5cfeb298acb89935a1a9edab4c33e04a)] -> id: products-orderby]
+2021-06-28 01:06:844 INFO  DesktopPage :60 - Clicking on Add to cart....[[ChromeDriver: chrome on WINDOWS (5cfeb298acb89935a1a9edab4c33e04a)] -> xpath: //div[@data-productid='1']/div[2]/div[3]/div[2]/button[3]]
+2021-06-28 01:06:56 INFO  BuildYourOnComputerPage :45 - Verifying Build Your Own Computer text....[[ChromeDriver: chrome on WINDOWS (5cfeb298acb89935a1a9edab4c33e04a)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-28 01:06:07 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 01:06:148 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (224f58f3fdea84a818826906be273587)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-28 01:06:482 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-28 01:06:784 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (224f58f3fdea84a818826906be273587)] -> id: products-orderby]
+2021-06-28 01:06:919 INFO  DesktopPage :60 - Clicking on Add to cart....[[ChromeDriver: chrome on WINDOWS (224f58f3fdea84a818826906be273587)] -> xpath: //div[@data-productid='1']/div[2]/div[3]/div[2]/button[3]]
+2021-06-28 01:06:870 INFO  BuildYourOnComputerPage :45 - Verifying Build Your Own Computer text....[[ChromeDriver: chrome on WINDOWS (224f58f3fdea84a818826906be273587)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-28 01:06:139 INFO  BuildYourOnComputerPage :51 - Select Processor....[[ChromeDriver: chrome on WINDOWS (224f58f3fdea84a818826906be273587)] -> id: product_attribute_1]
+2021-06-28 01:06:339 INFO  BuildYourOnComputerPage :57 - Select RAM....[[ChromeDriver: chrome on WINDOWS (224f58f3fdea84a818826906be273587)] -> id: product_attribute_2]
+2021-06-28 01:06:506 INFO  BuildYourOnComputerPage :63 - Select HDD 400....[[ChromeDriver: chrome on WINDOWS (224f58f3fdea84a818826906be273587)] -> id: product_attribute_3_7]
+2021-06-28 01:06:613 INFO  BuildYourOnComputerPage :69 - Select os vista premium [[ChromeDriver: chrome on WINDOWS (224f58f3fdea84a818826906be273587)] -> id: product_attribute_4_9]
+2021-06-28 01:06:734 INFO  BuildYourOnComputerPage :76 - Select total commander check box [[ChromeDriver: chrome on WINDOWS (224f58f3fdea84a818826906be273587)] -> id: product_attribute_5_12]
+2021-06-28 01:06:740 INFO  BuildYourOnComputerPage :93 - Verifying Price
+2021-06-28 01:06:581 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 01:06:747 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (36da295bec3c177f084b8ff08e755d16)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-28 01:06:125 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-28 01:06:495 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (36da295bec3c177f084b8ff08e755d16)] -> id: products-orderby]
+2021-06-28 01:06:659 INFO  DesktopPage :60 - Clicking on Add to cart....[[ChromeDriver: chrome on WINDOWS (36da295bec3c177f084b8ff08e755d16)] -> xpath: //div[@data-productid='1']/div[2]/div[3]/div[2]/button[3]]
+2021-06-28 01:06:207 INFO  BuildYourOnComputerPage :45 - Verifying Build Your Own Computer text....[[ChromeDriver: chrome on WINDOWS (36da295bec3c177f084b8ff08e755d16)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-28 01:06:475 INFO  BuildYourOnComputerPage :51 - Select Processor....[[ChromeDriver: chrome on WINDOWS (36da295bec3c177f084b8ff08e755d16)] -> id: product_attribute_1]
+2021-06-28 01:06:674 INFO  BuildYourOnComputerPage :57 - Select RAM....[[ChromeDriver: chrome on WINDOWS (36da295bec3c177f084b8ff08e755d16)] -> id: product_attribute_2]
+2021-06-28 01:06:781 INFO  BuildYourOnComputerPage :63 - Select HDD 400....[[ChromeDriver: chrome on WINDOWS (36da295bec3c177f084b8ff08e755d16)] -> id: product_attribute_3_7]
+2021-06-28 01:06:895 INFO  BuildYourOnComputerPage :69 - Select os vista premium [[ChromeDriver: chrome on WINDOWS (36da295bec3c177f084b8ff08e755d16)] -> id: product_attribute_4_9]
+2021-06-28 01:06:13 INFO  BuildYourOnComputerPage :76 - Select total commander check box [[ChromeDriver: chrome on WINDOWS (36da295bec3c177f084b8ff08e755d16)] -> id: product_attribute_5_12]
+2021-06-28 01:06:19 INFO  BuildYourOnComputerPage :93 - Verifying Price
+2021-06-28 01:06:193 INFO  BuildYourOnComputerPage :82 - Clicking on Add to cart[[ChromeDriver: chrome on WINDOWS (36da295bec3c177f084b8ff08e755d16)] -> id: add-to-cart-button-1]
+2021-06-28 01:06:200 INFO  BuildYourOnComputerPage :99 - Verifying Product added to cart
+2021-06-28 01:06:207 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 01:06:660 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (311dc277d53eabfebc5534fd7a1fdabe)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-28 01:06:433 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-28 01:06:711 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (311dc277d53eabfebc5534fd7a1fdabe)] -> id: products-orderby]
+2021-06-28 01:06:886 INFO  DesktopPage :60 - Clicking on Add to cart....[[ChromeDriver: chrome on WINDOWS (311dc277d53eabfebc5534fd7a1fdabe)] -> xpath: //div[@data-productid='1']/div[2]/div[3]/div[2]/button[3]]
+2021-06-28 01:06:149 INFO  BuildYourOnComputerPage :45 - Verifying Build Your Own Computer text....[[ChromeDriver: chrome on WINDOWS (311dc277d53eabfebc5534fd7a1fdabe)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-28 01:06:404 INFO  BuildYourOnComputerPage :51 - Select Processor....[[ChromeDriver: chrome on WINDOWS (311dc277d53eabfebc5534fd7a1fdabe)] -> id: product_attribute_1]
+2021-06-28 01:06:581 INFO  BuildYourOnComputerPage :57 - Select RAM....[[ChromeDriver: chrome on WINDOWS (311dc277d53eabfebc5534fd7a1fdabe)] -> id: product_attribute_2]
+2021-06-28 01:06:707 INFO  BuildYourOnComputerPage :63 - Select HDD 400....[[ChromeDriver: chrome on WINDOWS (311dc277d53eabfebc5534fd7a1fdabe)] -> id: product_attribute_3_7]
+2021-06-28 01:06:819 INFO  BuildYourOnComputerPage :69 - Select os vista premium [[ChromeDriver: chrome on WINDOWS (311dc277d53eabfebc5534fd7a1fdabe)] -> id: product_attribute_4_9]
+2021-06-28 01:06:937 INFO  BuildYourOnComputerPage :76 - Select total commander check box [[ChromeDriver: chrome on WINDOWS (311dc277d53eabfebc5534fd7a1fdabe)] -> id: product_attribute_5_12]
+2021-06-28 01:06:943 INFO  BuildYourOnComputerPage :93 - Verifying Price
+2021-06-29 21:06:245 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 21:06:287 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (d7364ba281a0fb75fa10d9a6baa8f8fb)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-29 21:06:295 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-29 21:06:09 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (d7364ba281a0fb75fa10d9a6baa8f8fb)] -> id: products-orderby]
+2021-06-29 21:06:182 INFO  DesktopPage :60 - Clicking on Add to cart....[[ChromeDriver: chrome on WINDOWS (d7364ba281a0fb75fa10d9a6baa8f8fb)] -> xpath: //div[@data-productid='1']/div[2]/div[3]/div[2]/button[3]]
+2021-06-29 21:06:693 INFO  BuildYourOnComputerPage :45 - Verifying Build Your Own Computer text....[[ChromeDriver: chrome on WINDOWS (d7364ba281a0fb75fa10d9a6baa8f8fb)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-29 21:06:73 INFO  BuildYourOnComputerPage :51 - Select Processor....[[ChromeDriver: chrome on WINDOWS (d7364ba281a0fb75fa10d9a6baa8f8fb)] -> id: product_attribute_1]
+2021-06-29 21:06:305 INFO  BuildYourOnComputerPage :57 - Select RAM....[[ChromeDriver: chrome on WINDOWS (d7364ba281a0fb75fa10d9a6baa8f8fb)] -> id: product_attribute_2]
+2021-06-29 21:06:520 INFO  BuildYourOnComputerPage :63 - Select HDD 400....[[ChromeDriver: chrome on WINDOWS (d7364ba281a0fb75fa10d9a6baa8f8fb)] -> id: product_attribute_3_7]
+2021-06-29 21:06:690 INFO  BuildYourOnComputerPage :69 - Select os vista premium [[ChromeDriver: chrome on WINDOWS (d7364ba281a0fb75fa10d9a6baa8f8fb)] -> id: product_attribute_4_9]
+2021-06-29 21:06:851 INFO  BuildYourOnComputerPage :76 - Select total commander check box [[ChromeDriver: chrome on WINDOWS (d7364ba281a0fb75fa10d9a6baa8f8fb)] -> id: product_attribute_5_12]
+2021-06-29 21:06:856 INFO  BuildYourOnComputerPage :93 - Verifying Price
+2021-06-29 21:06:997 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 21:06:594 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (59636d156f2cf4b41100fb413e1230d6)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-29 21:06:318 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-29 21:06:605 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (59636d156f2cf4b41100fb413e1230d6)] -> id: products-orderby]
+2021-06-29 21:06:784 INFO  DesktopPage :60 - Clicking on Add to cart....[[ChromeDriver: chrome on WINDOWS (59636d156f2cf4b41100fb413e1230d6)] -> xpath: //div[@data-productid='1']/div[2]/div[3]/div[2]/button[3]]
+2021-06-29 21:06:490 INFO  BuildYourOnComputerPage :45 - Verifying Build Your Own Computer text....[[ChromeDriver: chrome on WINDOWS (59636d156f2cf4b41100fb413e1230d6)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-29 21:06:773 INFO  BuildYourOnComputerPage :51 - Select Processor....[[ChromeDriver: chrome on WINDOWS (59636d156f2cf4b41100fb413e1230d6)] -> id: product_attribute_1]
+2021-06-29 21:06:994 INFO  BuildYourOnComputerPage :57 - Select RAM....[[ChromeDriver: chrome on WINDOWS (59636d156f2cf4b41100fb413e1230d6)] -> id: product_attribute_2]
+2021-06-29 21:06:132 INFO  BuildYourOnComputerPage :63 - Select HDD 400....[[ChromeDriver: chrome on WINDOWS (59636d156f2cf4b41100fb413e1230d6)] -> id: product_attribute_3_7]
+2021-06-29 21:06:257 INFO  BuildYourOnComputerPage :69 - Select os vista premium [[ChromeDriver: chrome on WINDOWS (59636d156f2cf4b41100fb413e1230d6)] -> id: product_attribute_4_9]
+2021-06-29 21:06:390 INFO  BuildYourOnComputerPage :76 - Select total commander check box [[ChromeDriver: chrome on WINDOWS (59636d156f2cf4b41100fb413e1230d6)] -> id: product_attribute_5_12]
+2021-06-29 21:06:406 INFO  BuildYourOnComputerPage :93 - Verifying Price
+2021-06-29 21:06:574 INFO  BuildYourOnComputerPage :82 - Clicking on Add to cart[[ChromeDriver: chrome on WINDOWS (59636d156f2cf4b41100fb413e1230d6)] -> id: add-to-cart-button-1]
+2021-06-29 21:06:581 INFO  BuildYourOnComputerPage :99 - Verifying Product added to cart
+2021-06-29 22:06:345 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 22:06:168 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (3c5402b6861493537a45ba2b9f25e2cc)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-29 22:06:450 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-29 22:06:767 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (3c5402b6861493537a45ba2b9f25e2cc)] -> id: products-orderby]
+2021-06-29 22:06:870 INFO  DesktopPage :53 - checking products are sorted....[]
+2021-06-29 22:06:784 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 22:06:536 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (3163db3467118346716d02b0fd8be4bd)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-29 22:06:12 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-29 22:06:333 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (3163db3467118346716d02b0fd8be4bd)] -> id: products-orderby]
+2021-06-29 22:06:506 INFO  DesktopPage :60 - Clicking on Add to cart....[[ChromeDriver: chrome on WINDOWS (3163db3467118346716d02b0fd8be4bd)] -> xpath: //div[@data-productid='1']/div[2]/div[3]/div[2]/button[3]]
+2021-06-29 22:06:927 INFO  BuildYourOnComputerPage :45 - Verifying Build Your Own Computer text....[[ChromeDriver: chrome on WINDOWS (3163db3467118346716d02b0fd8be4bd)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-29 22:06:201 INFO  BuildYourOnComputerPage :51 - Select Processor....[[ChromeDriver: chrome on WINDOWS (3163db3467118346716d02b0fd8be4bd)] -> id: product_attribute_1]
+2021-06-29 22:06:501 INFO  BuildYourOnComputerPage :57 - Select RAM....[[ChromeDriver: chrome on WINDOWS (3163db3467118346716d02b0fd8be4bd)] -> id: product_attribute_2]
+2021-06-29 22:06:660 INFO  BuildYourOnComputerPage :63 - Select HDD 400....[[ChromeDriver: chrome on WINDOWS (3163db3467118346716d02b0fd8be4bd)] -> id: product_attribute_3_7]
+2021-06-29 22:06:823 INFO  BuildYourOnComputerPage :69 - Select os vista premium [[ChromeDriver: chrome on WINDOWS (3163db3467118346716d02b0fd8be4bd)] -> id: product_attribute_4_9]
+2021-06-29 22:06:988 INFO  BuildYourOnComputerPage :76 - Select total commander check box [[ChromeDriver: chrome on WINDOWS (3163db3467118346716d02b0fd8be4bd)] -> id: product_attribute_5_12]
+2021-06-29 22:06:998 INFO  BuildYourOnComputerPage :93 - Verifying Price
+2021-06-29 22:06:345 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 22:06:476 INFO  HomePage :42 - Clicking on Top Menu....[[ChromeDriver: chrome on WINDOWS (74a24637e53b3126998a251c3efe7674)] -> xpath: //ul[@class='top-menu notmobile']/child::li]
+2021-06-29 22:06:452 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 22:06:324 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (e659aede72f827fcd685ede6f05221ac)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-29 22:06:780 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-29 22:06:108 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (e659aede72f827fcd685ede6f05221ac)] -> id: products-orderby]
+2021-06-29 22:06:242 INFO  DesktopPage :53 - checking products are sorted....[]
+2021-06-29 22:06:744 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 22:06:345 INFO  HomePage :48 - Clicking on Computer Menu....[[ChromeDriver: chrome on WINDOWS (395baf7179ac2fe50da2ff948e3988fa)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-29 22:06:178 INFO  ComputerPage :20 - Clicking on Desktop....Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-29 22:06:545 INFO  DesktopPage :47 - Sorting ....[[ChromeDriver: chrome on WINDOWS (395baf7179ac2fe50da2ff948e3988fa)] -> id: products-orderby]
+2021-06-29 22:06:721 INFO  DesktopPage :60 - Clicking on Add to cart....[[ChromeDriver: chrome on WINDOWS (395baf7179ac2fe50da2ff948e3988fa)] -> xpath: //div[@data-productid='1']/div[2]/div[3]/div[2]/button[3]]
+2021-06-29 22:06:776 INFO  BuildYourOnComputerPage :45 - Verifying Build Your Own Computer text....[[ChromeDriver: chrome on WINDOWS (395baf7179ac2fe50da2ff948e3988fa)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-29 22:06:92 INFO  BuildYourOnComputerPage :51 - Select Processor....[[ChromeDriver: chrome on WINDOWS (395baf7179ac2fe50da2ff948e3988fa)] -> id: product_attribute_1]
+2021-06-29 22:06:381 INFO  BuildYourOnComputerPage :57 - Select RAM....[[ChromeDriver: chrome on WINDOWS (395baf7179ac2fe50da2ff948e3988fa)] -> id: product_attribute_2]
+2021-06-29 22:06:540 INFO  BuildYourOnComputerPage :63 - Select HDD 400....[[ChromeDriver: chrome on WINDOWS (395baf7179ac2fe50da2ff948e3988fa)] -> id: product_attribute_3_7]
+2021-06-29 22:06:687 INFO  BuildYourOnComputerPage :69 - Select os vista premium [[ChromeDriver: chrome on WINDOWS (395baf7179ac2fe50da2ff948e3988fa)] -> id: product_attribute_4_9]
+2021-06-29 22:06:814 INFO  BuildYourOnComputerPage :76 - Select total commander check box [[ChromeDriver: chrome on WINDOWS (395baf7179ac2fe50da2ff948e3988fa)] -> id: product_attribute_5_12]
+2021-06-29 22:06:843 INFO  BuildYourOnComputerPage :93 - Verifying Price
+2021-06-29 22:06:525 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 22:06:690 INFO  HomePage :42 - Clicking on Top Menu....[[ChromeDriver: chrome on WINDOWS (04828e81736bb2cee358929e2f0b9b7f)] -> xpath: //ul[@class='top-menu notmobile']/child::li]
